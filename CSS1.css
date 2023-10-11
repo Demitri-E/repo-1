@@ -1,11 +1,23 @@
+h1
+{
+    font-size: larger;
+    margin:0;
+    padding:0;
+    text-align:center;
+    font-family:Zapf-Chancery, cursive;
+  color:brown; 
+}
+
+p
+{
+    text-align:center;
+}
+
+
+
+
 body {
 background-color: #FF69B4;
 color: #000000;
 font-family: verdana;
-}
-
-head {
-background-color: #000080;
-color: #FF0000;
-font-family:  arial, helvetica, sans-serif;
 }
